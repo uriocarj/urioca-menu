@@ -1,1 +1,12 @@
-# urioca-menu
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Urioca Menú</title>
+    <meta http-equiv="refresh" content="0; url='https://drive.google.com/file/d/1LSJeLvY-rwyhky3jpnU2520SIwxnyXU_/view?usp=drive_link'" />
+</head>
+<body>
+    <p>Redirigiendo a Urioca Menú...</p>
+</body>
+</html>
